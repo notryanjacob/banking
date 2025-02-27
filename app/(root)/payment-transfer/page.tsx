@@ -2,7 +2,7 @@ import React from 'react'
 
 const Transfer = () => {
   return (
-    <div>
+    <div className='flex-center'>
       Transfer
     </div>
   )
